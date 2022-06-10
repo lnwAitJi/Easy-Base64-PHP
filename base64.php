@@ -24,7 +24,6 @@ $Input = readline("Enter For Encode > ");                   # Input! #
 if ($Input === "") {                                        # If Input = "" #
     echo("Sorry But it Not Working for a only space\n");    # Sorry Text #
     goto Back;                                              # Goto Warp #
-} else {
 }
 
 // --- This is a Encode and Decode --- \\
